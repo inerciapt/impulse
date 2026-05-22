@@ -8,7 +8,7 @@ sections:
   - overline: "Location"
     title: "A Beneficiência Familiar"
     content: |
-       In the heart of Porto, with room for over 120 visitors.
+       In the heart of Porto, with room for over 100 visitors.
 
        Free entrance!
     button:
@@ -30,7 +30,7 @@ sections:
     content: |
        Do you create art with computers?
 
-       We want you at Impulse presenting it!
+       We want to see it presented to the audience at Impulse!
     button:
       text: "Participate!"
       url: "./participate/"

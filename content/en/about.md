@@ -2,12 +2,14 @@
 title: "About"
 summary: "Digital Arts Festival in Portugal"
 ---
->
+
+## About
+
 Impulse is organized by [Associação Inércia](https://inercia.pt), a non profit organization dedicated to promoting the demoscene.
 
 Impulse 2026 will be a single day event, taking place on the 11th of July 2026 at [A Benificiência Familiar](https://www.abfamiliar.pt/) in the center of the city of Porto.
 
-## About the Demoscene
+## Demoscene
 
 The Demoscene is an international computer art subculture focused on producing so-called demos: self-contained, sometimes extremely small, computer programs that display audiovisual content. The purpose of a demo is to show off programming, visual art, and musical skills.
 

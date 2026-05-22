@@ -72,7 +72,7 @@
 	--color-royal-blue-traditional: #0e275f;
 	--color-delft-blue: #243069;
 	--color-black: #000;
-	--color-black-off: #061213;
+	--color-black-off: #060612;
 	--color-white: #fff;
 	--color-orange: #f29132;
 	--color-red: #a63b45;
@@ -83,9 +83,10 @@
 	--color-primary-start: red;
 	--color-primary-end: blue;
 	--columns-width: var(--container-max-width);
-	--color-highlight: #c8e883;
+	--color-highlight: #6FF5FD;
 	--gradient-blue-purple: linear-gradient(19deg, #21d4fd 0%, #b721ff 100%);
-	--gradient-deluxe-paint: linear-gradient(43deg, #309E80 10%, #B4D26E 40%, #F2405F 70%, #972156 90%); 
+	--gradient-deluxe-paint: linear-gradient(43deg, #309E80 10%, #B4D26E 40%, #F2405F 70%, #972156 90%);
+	--gradient-cga: linear-gradient(43deg, #5DCDD4 10%, #AF2BA6 40%, #753797 70%, #F5AE7F 90%); 
 	--gradient-blood-red: linear-gradient(-118.4deg, #7a2334 27.5%, #3e091b 92.7%);
 	--mix-deluxe-paint: #8554c8;
 	--gradient-instagram: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
@@ -857,7 +858,7 @@ input:checked~.a-hamburger {
 .o-ticketOption__figure {
 	font-size: var(--fs-xxl);
 	background-color: #4158d0;
-	background-image: var(--gradient-deluxe-paint);
+	background-image: var(--gradient-cga);
 	-webkit-text-fill-color: transparent;
 	background-clip: border-box;
 	-webkit-background-clip: text
@@ -1513,7 +1514,7 @@ thead .o-timetable__cell {
 }
 
 .b-pageHeader {
-	background: var(--gradient-deluxe-paint);
+	background: var(--gradient-cga);
 	color: var(--color-white);
 	padding-block: calc(var(--unit-xxl) + 60px)var(--unit-xxl);
 	position: relative
@@ -2086,12 +2087,12 @@ thead .o-timetable__cell {
 }
 
 .s-content a:not(.m-button) {
-	color: #a7d97d
+	color: #753797
 }
 
 @media (hover:hover) {
 	.s-content a:not(.m-button):hover {
-		color: #f0ff9f
+		color: #651960
 	}
 }
 
@@ -3141,7 +3142,7 @@ code {
             gap: 20px;
             color: white;
             padding: 30px;
-            background: var(--gradient-deluxe-paint);
+            background: var(--gradient-cga);
             border-radius: 15px;
             box-shadow: 0px 7px 12px #080808;
 }

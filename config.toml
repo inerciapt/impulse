@@ -30,7 +30,7 @@ defaultContentLanguageInSubdir = true
 [languages]
   [languages.pt]
     languageName = 'Português'
-    weight = 1
+    weight = 2
     title = 'Impulse 2026'
     languageCode = 'pt-PT'
     contentDir = 'content/pt'

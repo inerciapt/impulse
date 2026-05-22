@@ -4,6 +4,11 @@
   url: "https://www.abfamiliar.pt/"
   logo: "images/logo-abf.png"
 
+- name: "Associação Inércia"
+  tier: "gold"
+  url: "https://inercia.pt/"
+  logo: "images/svg/inercia_associacao.svg"
+
 # ---------------------- Silver
 - name: "Mr. Print"
   tier: "silver"
@@ -15,13 +20,15 @@
   url: "https://scenesat.com/"
   logo: "images/svg/scenesat.svg"
 
-# ---------------------- Bronze
 - name: "Pombal Ceramics"
-  tier: "bronze"
+  tier: "silver"
   url: "https://joaquimpombal.blogspot.com/"
   logo: "images/svg/pombalceramics.svg"
 
 - name: "Enough Records"
-  tier: "bronze"
+  tier: "silver"
   url: "https://enoughrecords.scene.org/"
   logo: "images/svg/enough.svg"
+
+# ---------------------- Bronze
+
