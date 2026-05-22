@@ -1,0 +1,27 @@
+# ---------------------- Gold 
+- name: "ABFamiliar"
+  tier: "gold"
+  url: "https://www.abfamiliar.pt/"
+  logo: "images/logo-abf.png"
+
+# ---------------------- Silver
+- name: "Mr. Print"
+  tier: "silver"
+  url: "https://mrprint.pt/"
+  logo: "images/svg/mrprint.svg"
+
+- name: "SceneSat"
+  tier: "silver"
+  url: "https://scenesat.com/"
+  logo: "images/svg/scenesat.svg"
+
+# ---------------------- Bronze
+- name: "Pombal Ceramics"
+  tier: "bronze"
+  url: "https://joaquimpombal.blogspot.com/"
+  logo: "images/svg/pombalceramics.svg"
+
+- name: "Enough Records"
+  tier: "bronze"
+  url: "https://enoughrecords.scene.org/"
+  logo: "images/svg/enough.svg"
