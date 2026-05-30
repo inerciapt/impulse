@@ -24,10 +24,10 @@ Ao submeteres a tua produção, pedimos-te para indicar explicitamente as tuas f
 
 ### Especificações do Computador de Competição
 
-* Sistema Operativo : Windows 11 (com as mais recentes atualizações)
-* CPU : 12th Gen Intel(R) Core(TM) i7-12700F (2.10 GHz)
-* RAM : 2x 32GB DDR4-3200
-* GFX : RTX3060Ti 8GB GDDR6X
+* Sistema Operativo : Windows 10 (com updates de segurança)
+* CPU : 13th Gen Intel(R) Core(TM) i7-13700K (2.5 GHz)
+* RAM : 32GB DDR5-6400MHz
+* GFX : RTX3080Ti 12GB GDDR6X
 
 Se a tua produção correr noutra plataforma, por favor fornece-nos também uma gravação vídeo da mesma a executar. Se tal não for possível, fala connosco o mais rapidamente possível para tentarmos descobrir a melhor maneira de captarmos o video com qualidade aceitável.
 
