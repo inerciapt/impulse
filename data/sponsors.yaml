@@ -2,7 +2,7 @@
 - name: "ABFamiliar"
   tier: "gold"
   url: "https://www.abfamiliar.pt/"
-  logo: "images/logo-abf.png"
+  logo: "images/svg/beneficiencia.svg"
 
 - name: "Associação Inércia"
   tier: "gold"
