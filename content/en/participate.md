@@ -11,7 +11,7 @@ Do you create art with computers? We want you at Impulse presenting it! There ar
  * [Size Coding Showcase](#size-coding-showcase)
  * [Graphics Showcase](#graphics-showcase)
  * [Music Showcase](#music-showcase)
- * [Lightning Talks](#lightning-talks)
+ * [Lightning Talks / Wild](#lightning-talks)
 
 ## General Rules
 
@@ -32,7 +32,7 @@ If your production targets another platform, please also provide a video recordi
 
 ### Production licenses
 
-All productions entered will be distributed free for download on the internet after the event. By submitting your production to our party website you are agreeing to this distribution. The copyright remains yours ofcourse, and you are free to select what license you prefer for your work if you prefer something else besides Creative Commons BY-NC-SA that we apply by default. But please be aware your submission will be archived and made public. We might also use your work to promote future editions of Inércia. Please only submit your entry if you're ok with this.
+All productions entered will be distributed free for download on the internet after the event. By submitting your production to our party website you are agreeing to this distribution. The copyright remains yours ofcourse, and you are free to select what license you prefer for your work if you prefer something else besides Creative Commons BY-NC-SA that we apply by default. But please be aware your submission will be archived and made public. We might also use your work to promote future editions of Impulse or Inércia. Please only submit your entry if you're ok with this.
 
 ### Disclaimer
 
@@ -56,7 +56,7 @@ The winner will be determined by public voting.
 
 ## Size Coding Showcase
 
-We will have a screening block dedicated to any <a href="http://www.sizecoding.org/wiki/Main_Page">size coding</a> / bootblock productions made exclusively for Inércia 2025! We are looking for submissions running on any platforms under specific size constraints, it must not have been previously released. The most common target size restrictions are usually 8 bytes, 16 bytes, 32 bytes, 64 bytes, 128 bytes, 256 bytes, 512 bytes, 1kb, 4kb, 8kb, 20kb, 40kb and 64kb.
+We will have a screening block dedicated to any <a href="http://www.sizecoding.org/wiki/Main_Page">size coding</a> / bootblock productions made exclusively for Impulse 2026! We are looking for submissions running on any platforms under specific size constraints, it must not have been previously released. The most common target size restrictions are usually 8 bytes, 16 bytes, 32 bytes, 64 bytes, 128 bytes, 256 bytes, 512 bytes, 1kb, 4kb, 8kb, 20kb, 40kb and 64kb.
 
 📤 Please [submit a zip](https://impulse.partyman.cloud) with your entry: it should contain the entry itself, a short text file explaining the techniques and references used. This text file should also explain the best way to display the entry if it needs a special viewer and special settings, and how to play it. If you're targetting an uncommon platform and/or wish to guarantee we play the demo as it's meant to be shown, please also include a video capture of your entry.
 
@@ -99,7 +99,7 @@ Some leeway on this rule to also allow collaborations but please don't abuse it.
 
 ## Music Showcase
 
-We will have a screening block dedicated to music produced explicitely to be premiered at Inércia 2025!
+We will have a screening block dedicated to music produced explicitely to be premiered at Impulse 2026!
 We will play a maximum of 5 minutes of each track submitted. We are looking for submissions of the following kind:
 
  * Tracked music, composed using tracker software, for whatever target platform you use
@@ -123,11 +123,13 @@ We accept music of all genres. Special karma points if they are drone ambient or
     img3="/images/vortex_tracker.webp" alt3="Cesare: The Somnambule by Jumperror" caption3="'Cesare: The Somnambule' by Jumperror (Vortex Tracker)"
 >}}
 
-## Lightning Talks
+## Lightning Talks / Wild
 
 Give a lightning talk presentation (less then 15 minutes) about something interesting in your creative digital art process!
 
 It can be something that was developed by you or something you have been exploring lately that you think others will also find interesting. It can be a tool, a production, a work methodology, a source of inspiration, a project you've been working on. Be creative, show us what you been working on and inspire the other visitors. as long as it is remotely related to digital art and computers, it is welcome.
+
+It can be just a video of something related to the demoscene or digital art.
 
 Have an idea but doubts if it makes sense to present it at Impulse? Get in touch with us through discord and measure it's interest amongst the rest of the community before commiting to it.
 
