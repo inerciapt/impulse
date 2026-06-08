@@ -11,7 +11,7 @@ Crias arte com computadores? Queremos que a apresentes na Inércia! Existem vár
  * [Mostra de Size Coding](#mostra-de-size-coding)
  * [Mostra de Gráficos](#mostra-de-gráficos)
  * [Mostra de Música](#mostra-de-música)
- * [Apresentações Relâmpago](#apresentações-relâmpago)
+ * [Apresentações Relâmpago / Wild](#apresentações-relâmpago)
 
 ## Regras Gerais
 
@@ -33,7 +33,7 @@ Se a tua produção correr noutra plataforma, por favor fornece-nos também uma 
 
 ### Licenças de Produções
 
-Todas as produções submetidas ao sistema serão posteriormente distribuídas para descarregamento gratuito na Internet. Ao submeteres a tua produção no sistema estás a concordar com esta distribuição. Os direitos de autoria continuam a ser exclusivamente teus, por omissão distribuimos as obras sobre uma liçenca Creative Commons BY-NC-SA, se preferires outra por favor inclui essa informação no arquivo. Se não estás confortavel com a tua produção ser arquivada publicamente com uma licença Creative Commons por favor não participes. Poderemos também usar o teu trabalho para promover futuras edições do Inércia.
+Todas as produções submetidas ao sistema serão posteriormente distribuídas para descarregamento gratuito na Internet. Ao submeteres a tua produção no sistema estás a concordar com esta distribuição. Os direitos de autoria continuam a ser exclusivamente teus, por omissão distribuimos as obras sobre uma liçenca Creative Commons BY-NC-SA, se preferires outra por favor inclui essa informação no arquivo. Se não estás confortavel com a tua produção ser arquivada publicamente com uma licença Creative Commons por favor não participes. Poderemos também usar o teu trabalho para promover futuras edições do Festival Impulse e Inércia.
 
 ### Declaração de Exoneração de Responsabilidade
 
@@ -41,8 +41,8 @@ A organização reserva o direito de poder não selecionar o teu trabalho, por q
 
 ## Competição de Demos
 
-O evento principal da Inércia 2025 é a competição de [demos](https://en.wikipedia.org/wiki/Demoscene).
-Uma competição para produções executáveis que correm em tempo real, para qualquer plataforma computacional, desde que tenham sido feitas exclusivamente para ser mostradas nesta edição da Inércia.
+O evento principal da Impulse 2026 é a competição de [demos](https://en.wikipedia.org/wiki/Demoscene).
+Uma competição para produções executáveis que correm em tempo real, para qualquer plataforma computacional, desde que tenham sido feitas exclusivamente para ser mostradas nesta edição do Impulse.
 
 📤 Carrega [um arquivo zip](https://impulse.partyman.cloud) com a tua produção: deverá conter o executável em si e um ficheiro de texto com descrição do conteúdo, plataforma, técnicas e referências usadas e instruções para correr. Se estiveres a desenvolver para uma plataforma menos comum, ou queres garantir que mostramos a demo corretamente, por favor inclui também uma video captura da produção.
 
@@ -56,7 +56,7 @@ O vencedor será determinado por votação do público.
 
 ## Mostra de Size Coding
 
-Teremos uma mostra dedicada a qualquer tipo de produções de [size coding](http://www.sizecoding.org/wiki/Main_Page) e bootblocks, criadas exclusivamente para a Inércia 2025! Estamos à procura de participações para qualquer plataforma, cujo executável esteja dentro de certos limites de tamanho. Os limites mais comuns são 8 bytes, 16 bytes, 32 bytes, 64 bytes, 128 bytes, 256 bytes, 512 bytes, 1kb, 4kb, 8kb, 20kb, 40kb e 64kb.
+Teremos uma mostra dedicada a qualquer tipo de produções de [size coding](http://www.sizecoding.org/wiki/Main_Page) e bootblocks, criadas exclusivamente para a Impulse 2026! Estamos à procura de participações para qualquer plataforma, cujo executável esteja dentro de certos limites de tamanho. Os limites mais comuns são 8 bytes, 16 bytes, 32 bytes, 64 bytes, 128 bytes, 256 bytes, 512 bytes, 1kb, 4kb, 8kb, 20kb, 40kb e 64kb.
 
 📤 Carrega [um zip](https://impulse.partyman.cloud) com a tua produção: deverá conter o executável e um ficheiro de texto com descrição, plataforma, técnicas e referências usadas e instruções para correr. Se estiveres a desenvolver para uma plataforma menos comum ou queres garantir que mostramos a demo corretamente, por favor inclui também uma video captura da produção.
 
@@ -71,7 +71,7 @@ Esta regra tem alguma flexibilidade para facilitar colaborações mas não é pa
 
 ## Mostra de Gráficos
 
-Esta mostra é dedicada a produções gráficas feitas exclusivamente para a Inércia 2025. Estamos à procura de obras dos seguintes tipos:
+Esta mostra é dedicada a produções gráficas feitas exclusivamente para a Impulse 2026. Estamos à procura de obras dos seguintes tipos:
 
  * Arte com texto, usando ASCII, ANSI, PETSCII, ATASCII, TELETEXT, etc
  * Pixel art, palette e resolução de canvas limitados, usando standards de máquinas retro ou fantasy consoles
@@ -99,7 +99,7 @@ Esta regra tem alguma flexibilidade para facilitar colaborações mas não é pa
 
 ## Mostra de Música
 
-Nesta mostra, apresentaremos músicas originais produzidas exclusivamente para esta edição da Inércia.
+Nesta mostra, apresentaremos músicas originais produzidas exclusivamente para este evento.
 Serão tocados no máximo 5 minutos de cada música submetida.
 Estamos à procura de músicas dos seguintes tipos:
 
@@ -124,15 +124,15 @@ Aceitamos músicas de qualquer género mas levas pontos de karma se forem ambien
     img3="/images/vortex_tracker.webp" alt3="Cesare: The Somnambule by Jumperror" caption3="'Cesare: The Somnambule' by Jumperror (Vortex Tracker)"
 >}}
 
-## Apresentações Relâmpago
+## Apresentações Relâmpago / Wild
 
-Temos um novo formato de participação este ano, com vista a incentivar a apresentação pública e troca de conhecimento entre os participantes locais.
-
-Apresenta em 15 minutos algo interessante sobre o teu processo de criação de arte digital!
+Apresenta num máximo de 15 minutos algo interessante sobre o teu processo de criação de arte digital!
 
 Pode ser algo desenvolvido por ti ou algo que tenhas andado a explorar recentemente e que aches interessante. Pode ser uma ferramenta, uma produção, uma metodologia de trabalho, uma fonte de inspiração, um projecto em que tens estado a trabalho. Sê criativo, mostra o que tens feito e inspira os outros visitantes. Desde que seja relacionado com a arte digital e computadores, é bem vindo.
 
-Tens uma ideia mas dúvidas sobre se fará sentido apresentar na Inércia? Contacta-nos no discord para medir o interesse da comunidade que estará presente no evento.
+Pode ser simplesmente um video de alguma coisa relacionada com a demoscene e arte digital.
+
+Tens uma ideia mas dúvidas sobre se fará sentido apresentar? Contacta-nos no discord para medir o interesse da comunidade que estará presente no evento.
 
 📤 Carrega [um zip](https://impulse.partyman.cloud) com os slides / video / informação da tua apresentação.
 
