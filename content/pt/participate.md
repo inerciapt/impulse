@@ -5,7 +5,7 @@ summary: "Veterano? Novo na demoscene?! Vem mostrar a tua arte!"
 
 ## Mostras e Competições
 
-Crias arte com computadores? Queremos que a apresentes na Inércia! Existem várias categorias em que podes participar para o fazer, dependendo do tipo de arte que queres exibir. Consulta a seguinte lista para determinar qual se adapta melhor aos teus talentos:
+Crias arte com computadores? Queremos que a apresentes ao público! Existem várias categorias em que podes participar para o fazer, dependendo do tipo de arte que queres exibir. Consulta a seguinte lista para determinar qual se adapta melhor aos teus talentos:
 
  * [Competição de Demos](#competição-de-demos)
  * [Mostra de Size Coding](#mostra-de-size-coding)
