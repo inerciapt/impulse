@@ -30,6 +30,6 @@ A organização reserva o direito de excluir do evento qualquer pessoa que possa
 
 ## Contacto Geral
 
-Qualquer dúvida ou questão sobre a Inércia 2025 pode ser esclarecida através do nosso [endereço electrónico](mailto:info@inercia.pt&subject=Inércia%202025)
+Qualquer dúvida ou questão sobre o festival pode ser esclarecida através do nosso [endereço electrónico](mailto:info@inercia.pt&subject=Inércia%202025)
 
 Também estamos ativos no [canal de discord da demoscene portuguesa](https://discord.gg/a44cmgbQFh)
