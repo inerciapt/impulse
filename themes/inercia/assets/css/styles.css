@@ -2463,6 +2463,10 @@ table .a-badge {
 	background-color: rgb(68, 30, 255);
 }
 
+.food {
+	background-color: rgb(228, 228, 208);
+}
+
 .compo {
 	background-color: rgb(100, 200, 100);
 	color: rgb(0, 0, 0);
