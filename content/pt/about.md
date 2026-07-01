@@ -8,9 +8,9 @@ hero_image:
 
 ## Sobre
 
-O festival Impulse é organizado pela [Associação Inércia](https://inercia.pt), uma associação sem fins lucrativos dedicada à promoção da demoscene.
+O Festival Impulse é organizado pela [Associação Inércia](https://inercia.pt), uma associação sem fins lucrativos dedicada à promoção da demoscene.
 
-A Impulse 2026 terá lugar um único dia, 11 de Julho 2026 no Salão d'[A Beneficiência Familiar](https://www.abfamiliar.pt/) mesmo no coração do Porto.
+O Impulse 2026 terá lugar um único dia, 11 de Julho 2026 no Salão d'[A Beneficiência Familiar](https://www.abfamiliar.pt/) mesmo no coração do Porto.
 
 ## Demoscene
 
@@ -18,7 +18,7 @@ A demoscene é uma subcultura internacional de arte digital centrada na produç�
 
 A comunidade da demoscene organiza regularmente eventos para competir e socializar, as chamadas demoparties: eventos sociais físicos, normalmente durante um fim de semana, centrados na apresentação de novos conteúdos da demoscene. Incluem normalmente competições de várias categorias, seminários sobre temas relevantes e actuações ao vivo de música e visuais.
 
-A Impulse é uma demoparty mas também convida outras culturas ligadas à arte e fabricação digital a participar, sendo definida como um festival de arte digital e música.
+O Festival Impulse funciona como uma demoparty mas também convida outras culturas ligadas à arte e fabricação digital a participar, sendo definida como um festival de arte digital e música.
 
 ## Entrada
 
