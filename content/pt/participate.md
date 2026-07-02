@@ -25,9 +25,9 @@ Ao submeteres a tua produção, pedimos-te para indicar explicitamente as tuas f
 ### Especificações do Computador de Competição
 
 * Sistema Operativo : Windows 10 (com updates de segurança)
-* CPU : 13th Gen Intel(R) Core(TM) i7-13700K (2.5 GHz)
+* CPU : 13th Gen Intel(R) Core(TM) i7-13600K (Max Turbo 5.1 GHz)
 * RAM : 32GB DDR5-6400MHz
-* GFX : RTX3080Ti 12GB GDDR6X
+* GFX : RTX5080 16GB GDDR7
 
 Se a tua produção correr noutra plataforma, por favor fornece-nos também uma gravação vídeo da mesma a executar. Se tal não for possível, fala connosco o mais rapidamente possível para tentarmos descobrir a melhor maneira de captarmos o video com qualidade aceitável.
 

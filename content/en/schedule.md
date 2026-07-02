@@ -16,7 +16,7 @@ summary: ""
 | {{< jtzr-time >}}11:00{{</jtzr-time>}} | {{< cl1 class="tt performance" >}}SCREENING{{</cl1>}} | Curated demoshow |
 | {{< jtzr-time >}}12:00{{</jtzr-time>}} | {{< cl1 class="tt food" >}}BREAK{{</cl1>}} | Lunch Break |
 | {{< jtzr-time >}}14:00{{</jtzr-time>}} | {{< cl1 class="tt seminar" >}}ROUND TABLE{{</cl1>}} | {{< details summary="Digital Art in 2026" >}}
-Round table on the state and importance of digital art in 2026 with the participation of: [Filipe Veiga](https://www.instagram.com/teknamic/), behind publisher Teknamic and volunteer of the Load ZX Spectrum museum; [António Coelho](https://sigarra.up.pt/feup/pt/func_geral.formview?p_codigo=419920), FEUP university professor and researcher in multimedia at INESC; and [Rita Neves](https://www.linkedin.com/in/ritalmeidaneves/), sub-diretor TUMO Coimbra.
+Round table on the state and importance of digital art in 2026 with the participation of: [Filipe Veiga](https://www.instagram.com/teknamic/), behind publisher Teknamic and volunteer of the Load ZX Spectrum museum; [António Coelho](https://sigarra.up.pt/feup/pt/func_geral.formview?p_codigo=419920), FEUP university professor and researcher in multimedia at INESC.
 {{< /details >}} |
 | {{< jtzr-time >}}15:00{{</jtzr-time>}} | {{< cl1 class="tt deadline" >}}DEADLINE{{</cl1>}} | Submit entries for showcase / competition |
 | {{< jtzr-time >}}15:00{{</jtzr-time>}} | {{< cl1 class="tt seminar" >}}WORKSHOP{{</cl1>}} | Learning tracker music |

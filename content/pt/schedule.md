@@ -16,7 +16,7 @@ summary: ""
 | {{< jtzr-time >}}11:00{{</jtzr-time>}} | {{< cl1 class="tt performance" >}}PROJEÇÃO{{</cl1>}} | Mostra de Demos antigas |
 | {{< jtzr-time >}}12:00{{</jtzr-time>}} | {{< cl1 class="tt food" >}}INTERVALO{{</cl1>}} | Almoço |
 | {{< jtzr-time >}}14:00{{</jtzr-time>}} | {{< cl1 class="tt seminar" >}}MESA REDONDA{{</cl1>}} | {{< details summary="Arte digital em 2026" >}}
-Mesa redonda sobre o estado e importância da arte digital em 2026 contando com a participação de: [Filipe Veiga](https://www.instagram.com/teknamic/), responsavel pela editora Teknamic e voluntário do museu Load ZX Spectrum; [António Coelho](https://sigarra.up.pt/feup/pt/func_geral.formview?p_codigo=419920), professor universitário na FEUP e investigador multimédia no INESC; e [Rita Neves](https://www.linkedin.com/in/ritalmeidaneves/), sub-diretora TUMO Coimbra. 
+Mesa redonda sobre o estado e importância da arte digital em 2026 contando com a participação de: [Filipe Veiga](https://www.instagram.com/teknamic/), responsavel pela editora Teknamic e voluntário do museu Load ZX Spectrum; [António Coelho](https://sigarra.up.pt/feup/pt/func_geral.formview?p_codigo=419920), professor universitário na FEUP e investigador multimédia no INESC. 
 {{< /details >}} |
 | {{< jtzr-time >}}15:00{{</jtzr-time>}} | {{< cl1 class="tt deadline" >}}DEADLINE{{</cl1>}} | Submissão de produções para as mostras / competição |
 | {{< jtzr-time >}}15:00{{</jtzr-time>}} | {{< cl1 class="tt seminar" >}}WORKSHOP{{</cl1>}} | Software de música trackada |

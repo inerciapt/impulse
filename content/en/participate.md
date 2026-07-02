@@ -24,9 +24,9 @@ When submitting the production please list your sources and tools explicitly, th
 ### Competition machine specifications
 
 * OS : Windows 10 (with latest updates)
-* CPU : 13th Gen Intel(R) Core(TM) i7-13700K (2.5 GHz)
+* CPU : 13th Gen Intel(R) Core(TM) i7-13600K (Max Turbo 5.1 GHz)
 * RAM : 32GB DDR5-6400MHz
-* GFX : RTX3080Ti 12GB GDDR6X
+* GFX : RTX5080 16GB GDDR7
 
 If your production targets another platform, please also provide a video recording of it, if you can't do so please come talk with us as soon as possible so we can try to figure out how to capture its signal with acceptable quality.
 
